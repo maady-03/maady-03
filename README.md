@@ -60,3 +60,8 @@ Full-Stack Web Developer • Problem Solver • Competitive Programmer
   <strong>Thank you for visiting my GitHub profile.</strong><br/>
   I’m always open to collaboration, learning, and building impactful software.
 </p>
+
+<!-- ================= FOOTER IMAGE ================= -->
+<div align="center">
+  <img src="./assets/banner/footer.png" width="100%" style="border-radius: 10px;" alt="Footer Banner" />
+</div>
