@@ -1,3 +1,8 @@
+<!-- ================= HEADER IMAGE ================= -->
+<p align="center">
+  <img src="./assets/header.png" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">
 नमस्ते (Namaste), I'm Manas Verma 👋
 </h1>
@@ -5,50 +10,6 @@
 <h3 align="center">
 Full-Stack Web Developer • Problem Solver • Competitive Programmer
 </h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&center=true&width=800&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Always+Learning+Modern+Technologies;Let's+Build+Something+Meaningful"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **passionate Full-Stack Web Developer** who loves building real-world products. I enjoy turning complex problems into clean, scalable code using modern web technologies.
-
-- 🔭 **Currently building:** Full-stack applications using the **MERN stack**, with AI integrations and role-based architectures.
-- 🌱 **Currently focusing on:** Advanced DSA, System Design, and Competitive Programming.
-- 💬 **Ask me about:** React, Node.js, REST APIs, or my LeetCode grind.
-- ⚡ **Fun fact:** I built a chess game from scratch — and the AI defeated me 😄
-
-<img
-  align="right"
-  alt="Coding"
-  width="260"
-  src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif"
-/>
-
----
-
-## 🚀 What I've Built
-
-- **Intern India** – AI-powered internship search engine for the PM Internship Scheme. *(FastAPI, React, Firebase)*
-- **Placement Tracker** – Role-based job application manager with a resume-JD analyzer. *(MERN, Redis, OpenAI)*
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Congithon Hackathon Winner** – 1st place among 60+ teams.
-- 🏅 **Smart India Hackathon** – Secured 3rd position.
-- 💻 **DSA & CP:** 188+ LeetCode (Rating: 1442) • 262+ on Codeforces & CodeChef.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -78,6 +39,19 @@ I am a **passionate Full-Stack Web Developer** who loves building real-world pro
 
 ---
 
+## 🚀 What I've Built
+
+- **Intern India** – AI-powered internship search engine for the PM Internship Scheme. *(FastAPI, React, Firebase)*
+- **Placement Tracker** – Role-based job application manager with a resume-JD analyzer. *(MERN, Redis, OpenAI)*
+
+## 🏆 Highlights
+
+- 🥇 **Congithon Hackathon Winner** – 1st place among 60+ teams.
+- 🏅 **Smart India Hackathon** – Secured 3rd position.
+- 💻 **DSA & CP:** 188+ LeetCode (Rating: 1442) • 262+ on Codeforces & CodeChef.
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -92,8 +66,6 @@ I am a **passionate Full-Stack Web Developer** who loves building real-world pro
   </a>
 </p>
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -103,3 +75,8 @@ I am a **passionate Full-Stack Web Developer** who loves building real-world pro
 </p>
 
 ---
+
+<!-- ================= FOOTER IMAGE ================= -->
+<p align="center">
+  <img src="./assets/footer.png" alt="Footer Banner" width="100%" />
+</p>
